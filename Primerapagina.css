@@ -1,5 +1,207 @@
-h1
+header {
+    background-color: #82a1b1;
+    width: 1330px;
+    height: 130px;
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+}
+img {
+    height: 25mm;
+    width: 25mm;
+    float: left;
+    position: absolute;
+    left: 150px;
+    top: 15px;
+}
+h1 {
+    color: #000000;
+    font-family: "Courier New";
+    text-align: center;
+    font-size: 30mm;
+    margin: 0px;
+
+}
+section
 {
-    color: #0c284c;
+    float: left;
+    width: 600px;
+    height: 200px;
+    background: #82a1b1;
+    margin-top: 80px;
+    margin-right: 140px;
+    margin-left: 255px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+form{
+    vertical-align: middle;
+    horiz-align: center;
+    text-align: center;
+    font-size: 30px;
+    padding: 60px;
+    font-family: Arial;
+}
+button
+{
+    font-size: 20px;
+    border-radius: 2px;
+}
+input
+{
+    font-size: 20px;
+}
+aside
+{
+    width: 300px;
+    height: 480px;
+    background: #82a1b1;
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin: 3px;
+}
+h3
+{
+    text-align: center;
+    font-size: 10mm;
+    padding-bottom: 0px;
+    line-height: 10px;
+    font-family: "Courier New";
+    padding-left: 15px;
 }
 
+li{
+    text-align: justify;
+    font-size: 5mm;
+    font-family: "Arial";
+}
+body
+{
+    background-color: #ea899a;
+}
+#puntajes
+{
+    float: left;
+    width: 300px;
+    height: 430px;
+    background: #82a1b1;
+    margin: 10px;
+}
+#sectionjuego
+{
+    float: left;
+    position: relative;
+    width: 972px;
+    height: 430px;
+    background: #82a1b1;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 1px;
+    padding-bottom: 30px;
+}
+#horca
+{
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    top: 100px;
+    left:80px;
+}
+
+#puntaje
+{
+    width: 80px;
+    height: 60px;
+    background-color: #ffb3e7;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 100px;
+}
+#letras
+{
+    text-align: center;
+    font-size: 10mm;
+    padding-bottom: 0px;
+    line-height: 10px;
+    font-family: "Courier New";
+    padding-left: 15px;
+}
+#letra
+{
+    width: 80px;
+    height: 60px;
+    background-color: #ffb3e7;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 100px;
+}
+#palabra
+{
+    width: 500px;
+    height: 200px;
+    background-color: #ffb3e7;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 350px;
+    margin-top: 150px;
+    position: absolute;
+
+}
+#muñeco
+{
+    width: 45px;
+    height: 150px;
+    background-color: #ffb3e7;
+    padding-left: 20px;
+    padding-right: 80px;
+    margin-left: 180px;
+    margin-top: 150px;
+    margin-right: 500px;
+    padding-bottom: 50px;
+    position: relative;
+}
+#nombrejug
+{
+    width: 160px;
+    height: 60px;
+    background-color: #ffb3e7;
+    padding-left: 15px;
+    padding-right: 20px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+#ingpalabras
+{
+    float: left;
+    position: relative;
+    width: 800px;
+    height: 400px;
+    background: #82a1b1;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 280px;
+    padding-bottom: 30px;
+}
+#buttonpalabra
+{
+    font-size: 20px;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+#inpingresar
+{
+    font-size: 25px;
+    margin-top: 30px;
+}
+#h3palabra
+{
+    text-align: center;
+    font-size: 10mm;
+    line-height: 8px;
+    font-family: "Courier New";
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
