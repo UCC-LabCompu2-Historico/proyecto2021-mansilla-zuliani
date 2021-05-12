@@ -1,7 +1,7 @@
 # Ahorcado
 ***
-el proyecto es sobre una pagina web la cual es el juego del ahorcado
-***
+Esta página  corresponde a un juego multijugador llamado el ahorcado
 #  Participantes
-Mansilla Milagros
-Zuliani Francina
+***
+-Zuliani Francina
+-Mansilla Milagros
