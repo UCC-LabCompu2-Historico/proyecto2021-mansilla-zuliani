@@ -8,6 +8,7 @@
     <meta content="Juego, Puntaje, Palabras, Letras" name="Palabras-Claves">
     <link rel="stylesheet" href="Primerapagina.css" type="text/css">
     <link rel="shotcut icon" href="Imágenes/icon_944242d44602cf5e4024530527334f96.ico">
+    <script type="text/javascript" src="funciones.js"></script>
 
 </head>
 <body>
@@ -19,9 +20,10 @@
 </div>
 <div>
     <section>
-        <form>
-            <label>JUGADOR N°1:<input type="text" placeholder="Ingresar nombre"></label><br>
-            <label>JUGADOR N°2:<input type="text" placeholder="Ingresar nombre"></label><br>
+        <form name="nombrejug">
+            <label>JUGADOR N°1:</label><input id="inpj1" type="text" name="jugadorn1" placeholder="Ingresar nombre" onchange="nombre(this.id,this.value)">
+            <br>
+            <label>JUGADOR N°2:</label><input id="inpj2" type="text" name="jugadorn2" placeholder="Ingresar nombre"onchange="nombre2(this.id,this.value)"><br>
             <button type="button" name="Iniciar"> <a href=http://localhost:63342/proyecto2021-mansilla-zuliani/palabra.html?_ijt=5fgtkt1riktd5jvs31g591s5sv">Inciar</a></button>
         </form>
     </section>
@@ -31,7 +33,7 @@
         <h3>INSTRUCCIONES</h3>
         <ol>
             <li>Ingresa tu nombre y el de tu oponente y da click a iniciar.</li>
-            <li>Escribe la palabra que tendrá que adivinar tu oponente en "Inserte palabra" y da click a continuar.</li>
+            <li>El jugador N°1 debe escribir la palabra que tendrá que adivinar el jugador N°2 en "Inserte palabra".</li>
             <li>Las letras que sean correctas se ubicaran en la palabra y las incorrectas al costado de la página.</li>
             <li>Tenés 7 vidas y al final del juego podrán ver los puntajes, por cada letra correcta se suman 10 puntos y por cada letra incorrecta se restan 2 puntos. </li>
             <li>Último paso, a divertirse!!</li>

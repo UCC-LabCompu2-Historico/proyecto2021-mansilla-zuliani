@@ -19,10 +19,15 @@
 <div>
   <section id="sectionjuego">
     <img id="horca" src="Imágenes/IMAGEN_AHORCADO-removebg-preview (1).png" alt="horca"/>
-    <canvas id="palabra">
+    <canvas id="palabra" width="500px" height="200px">
       El navegador
     </canvas>
-    <canvas id="muñeco">
+    <form id="il">
+    <label for="ingletra">INGRESAR UNA LETRA </label> <input id="ingletra" type="text" maxlength="1" name="introletra" placeholder="Ingrese una letra">
+      <br>
+      <button id="comprobarletra" type="button" name="Comprobar"> Comprobar </button>
+    </form>
+    <canvas id="muñeco" width="40px" height="150px">
       El navegador
     </canvas>
   </section>
@@ -30,7 +35,7 @@
 <div>
   <aside id="puntajes">
     <h3>PUNTAJE</h3>
-    <canvas id="puntaje">
+    <canvas id="puntaje" class="punt" width="80" height="60" onchange="punt()">
       El navegador
     </canvas>
     <h4 id="letras">LETRAS</h4>

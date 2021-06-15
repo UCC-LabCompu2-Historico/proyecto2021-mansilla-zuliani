@@ -19,8 +19,6 @@ h1 {
     font-family: "Courier New";
     text-align: center;
     font-size: 30mm;
-    margin: 0px;
-
 }
 section
 {
@@ -31,7 +29,6 @@ section
     margin-top: 80px;
     margin-right: 140px;
     margin-left: 255px;
-    padding-top: 0px;
     padding-bottom: 30px;
 }
 form{
@@ -40,12 +37,20 @@ form{
     text-align: center;
     font-size: 30px;
     padding: 60px;
-    font-family: Arial;
+    font-family: "Courier New";
 }
 button
 {
     font-size: 20px;
     border-radius: 2px;
+}
+.inpj1
+{
+    font-size: 20px;
+}
+.inpj2
+{
+    font-size: 20px;
 }
 input
 {
@@ -65,7 +70,6 @@ h3
 {
     text-align: center;
     font-size: 10mm;
-    padding-bottom: 0px;
     line-height: 10px;
     font-family: "Courier New";
     padding-left: 15px;
@@ -111,8 +115,6 @@ body
 
 #puntaje
 {
-    width: 80px;
-    height: 60px;
     background-color: #ffb3e7;
     padding-left: 20px;
     padding-right: 20px;
@@ -122,7 +124,6 @@ body
 {
     text-align: center;
     font-size: 10mm;
-    padding-bottom: 0px;
     line-height: 10px;
     font-family: "Courier New";
     padding-left: 15px;
@@ -138,8 +139,6 @@ body
 }
 #palabra
 {
-    width: 500px;
-    height: 200px;
     background-color: #ffb3e7;
     padding-left: 20px;
     padding-right: 20px;
@@ -150,21 +149,17 @@ body
 }
 #muñeco
 {
-    width: 45px;
-    height: 150px;
     background-color: #ffb3e7;
-    padding-left: 20px;
+    padding-left: 60px;
     padding-right: 80px;
-    margin-left: 180px;
-    margin-top: 150px;
-    margin-right: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 280px;
     padding-bottom: 50px;
     position: relative;
 }
 #nombrejug
 {
-    width: 160px;
-    height: 60px;
     background-color: #ffb3e7;
     padding-left: 15px;
     padding-right: 20px;
@@ -192,7 +187,7 @@ body
 #inpingresar
 {
     font-size: 25px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 #h3palabra
 {
@@ -201,7 +196,26 @@ body
     line-height: 8px;
     font-family: "Courier New";
     padding-left: 15px;
-    padding-top: 0px;
+}
+
+#il
+{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 8mm;
+    line-height: 8px;
+    font-family: "Courier New";
+    margin-bottom: 10px;
     padding-bottom: 10px;
-    margin-top: 0px;
+}
+.comprobarletra
+{
+    border-radius: 2px;
+    margin-top: 40px;
+    padding-left: 20px;
+    width: 70px;
+    height: 35px;
+    margin-left: 250px;
+    font-size: 20px;
+    padding-top: 20px;
 }

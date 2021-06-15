@@ -8,6 +8,7 @@
     <meta content="Juego, Puntaje, Palabras, Letras" name="Palabras-Claves">
     <link rel="stylesheet" href="Primerapagina.css" type="text/css">
     <link rel="shotcut icon" href="Imágenes/icon_944242d44602cf5e4024530527334f96.ico">
+    <script type="text/javascript" src="funciones.js"></script>
 </head>
 <body>
 <div>
@@ -18,15 +19,9 @@
 </div>
 <div>
     <section id="ingpalabras">
-        <div>
-            <canvas id="nombrejug">
-                El navegador
-            </canvas>
-        </div>
-        <form>
-            <h3 id="h3palabra">Ingrese una palabra</h3>
-            <br>
-            <input id="inpingresar" type="text" placeholder="Ingresar palabra">
+        <h2 id="mostrarjugador"></h2>
+        <form name="ip">
+            <label for="inpingresar"> Ingrese una palabra </label> <input id="inpingresar" type="text" name="ingpalabra" placeholder="Ingresar palabra" onchange="palabra(this.id,this.value)">
             <br>
             <button id="buttonpalabra" type="button" name="Continuar"><a href="http://localhost:63342/proyecto2021-mansilla-zuliani/juego.html?_ijt=5fgtkt1riktd5jvs31g591s5sv">Continuar</a></button>
         </form>

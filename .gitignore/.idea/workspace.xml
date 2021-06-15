@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1a25995-ff1b-4386-8b92-a45fb3b979f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/funciones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcpalabra.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Código.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/Código.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primerapagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Primerapagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imágenes/87 sin título_20210511201917.png" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/Imágenes/87 sin título_20210511201917.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imágenes/IMAGEN_AHORCADO-removebg-preview (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/Imágenes/IMAGEN_AHORCADO-removebg-preview (1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imágenes/icon_944242d44602cf5e4024530527334f96.ico" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/Imágenes/icon_944242d44602cf5e4024530527334f96.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imágenes/icono.png" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/Imágenes/icono.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego.html" beforeDir="false" afterPath="$PROJECT_DIR$/juego.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palabra.html" beforeDir="false" afterPath="$PROJECT_DIR$/palabra.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +40,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -67,9 +65,7 @@
       <workItem from="1620788273332" duration="1141000" />
       <workItem from="1620816792749" duration="742000" />
       <workItem from="1621423926374" duration="1233000" />
-      <workItem from="1623366259473" duration="6556000" />
-      <workItem from="1623552358607" duration="1433000" />
-      <workItem from="1623697675103" duration="11170000" />
+      <workItem from="1623366259473" duration="2251000" />
     </task>
     <servers />
   </component>
@@ -87,8 +83,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
