@@ -63,11 +63,10 @@ function cc () {
     puntaje = canvas.getContext("2d");
     var ii = new Image();
     ii.scr = "Imágenes/delete-156119_960_720.png";
-    ii.onload = function () {
-        ctx.drawImage(img, 0, 0);
-    }
-    ii.addEventListener("load", function () {
-        puntaje.drawImage(ii, 20, 20)
-    }, false);
+    ctx.drawImage(img, 10, 10);
 }
 
+/**
+ * Descripción
+ * @ nombre: función para saber si se ingresan letras o números.
+ */

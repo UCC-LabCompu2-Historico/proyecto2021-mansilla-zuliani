@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1a25995-ff1b-4386-8b92-a45fb3b979f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615190848.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615191018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615193801.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194231.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194340.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194744.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/90 sin título_20210615200152 (1) (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/90 sin título_20210615200152 (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/90 sin título_20210615200152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/94 sin título_20210615213655.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/delete-156119_960_720.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/hangman-game_pm-1024x212.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primerapagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Primerapagina.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego.html" beforeDir="false" afterPath="$PROJECT_DIR$/juego.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palabra.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +67,7 @@
       <workItem from="1623552358607" duration="1433000" />
       <workItem from="1623697675103" duration="11170000" />
       <workItem from="1623763565632" duration="2092000" />
-      <workItem from="1623766854128" duration="25330000" />
+      <workItem from="1623766854128" duration="27217000" />
     </task>
     <servers />
   </component>
