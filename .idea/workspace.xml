@@ -2,18 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1a25995-ff1b-4386-8b92-a45fb3b979f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funciones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcpalabra.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Código.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/Código.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615190848.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615191018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615193801.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194340.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/89 sin título_20210615194744.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/90 sin título_20210615200152 (1) (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/90 sin título_20210615200152 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/90 sin título_20210615200152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/94 sin título_20210615213655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/delete-156119_960_720.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/hangman-game_pm-1024x212.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Primerapagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Primerapagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/juego.html" beforeDir="false" afterPath="$PROJECT_DIR$/juego.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palabra.html" beforeDir="false" afterPath="$PROJECT_DIR$/palabra.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palabra.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1sPbITVYzWYzZao6G5Jj7xyQn3W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -70,6 +82,8 @@
       <workItem from="1623366259473" duration="6556000" />
       <workItem from="1623552358607" duration="1433000" />
       <workItem from="1623697675103" duration="11170000" />
+      <workItem from="1623763565632" duration="2092000" />
+      <workItem from="1623766854128" duration="25330000" />
     </task>
     <servers />
   </component>

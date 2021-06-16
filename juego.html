@@ -8,6 +8,7 @@
   <meta content="Juego, Puntaje, Palabras, Letras" name="Palabras-Claves">
   <link rel="stylesheet" href="Primerapagina.css" type="text/css">
   <link rel="shotcut icon" href="Imágenes/icon_944242d44602cf5e4024530527334f96.ico">
+  <script type="text/javascript" src="funciones.js"></script>
 </head>
 <body>
 <div>
@@ -18,24 +19,21 @@
 </div>
 <div>
   <section id="sectionjuego">
-    <img id="horca" src="Imágenes/IMAGEN_AHORCADO-removebg-preview (1).png" alt="horca"/>
-    <canvas id="palabra" width="500px" height="200px">
-      El navegador
-    </canvas>
+
+
+    <p id="output"></p>
     <form id="il">
-    <label for="ingletra">INGRESAR UNA LETRA </label> <input id="ingletra" type="text" maxlength="1" name="introletra" placeholder="Ingrese una letra">
+    <label for="ingletra">INGRESAR UNA LETRA </label> <input id="ingletra" type="text" maxlength="1" name="introletra" placeholder="Ingrese una letra" >
       <br>
-      <button id="comprobarletra" type="button" name="Comprobar"> Comprobar </button>
+      <button id="completra" type="button" name="buttoncomprobar" onclick="cc()"> Comprobar </button>
     </form>
-    <canvas id="muñeco" width="40px" height="150px">
-      El navegador
-    </canvas>
+    <div id="avocados" ></div>
   </section>
 </div>
 <div>
   <aside id="puntajes">
-    <h3>PUNTAJE</h3>
-    <canvas id="puntaje" class="punt" width="80" height="60" onchange="punt()">
+    <h3 id="h3p">VIDAS</h3>
+    <canvas id="puntaje" class="punt" width="80" height="60">
       El navegador
     </canvas>
     <h4 id="letras">LETRAS</h4>
