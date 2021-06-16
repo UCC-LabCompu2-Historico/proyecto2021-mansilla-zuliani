@@ -1,4 +1,7 @@
-
+/**
+ * Descripción
+ * @ nombre: función para saber si se ingresan letras o números.
+ */
 addEventListener('load',f);
 
 String.prototype.replaceAt=function(index, character) {
@@ -60,13 +63,10 @@ function f() {
 
 function cc () {
     var canvas = document.getElementById("puntaje");
-    puntaje = canvas.getContext("2d");
+    var contex=canvas.getContext("2d");
     var ii = new Image();
     ii.scr = "Imágenes/delete-156119_960_720.png";
-    ctx.drawImage(img, 10, 10);
+    contex.drawImage(ii, 10, 10);
+    
 }
 
-/**
- * Descripción
- * @ nombre: función para saber si se ingresan letras o números.
- */
