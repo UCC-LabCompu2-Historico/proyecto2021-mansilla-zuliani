@@ -2,7 +2,7 @@
 ***
 Esta página  corresponde a un juego multijugador llamado el ahorcado
 ***
-link [Juego El ahorcado] (https://ucc-labcompu2.github.io/proyecto2021-mansilla-zuliani/)
+link [Juego El ahorcado] (https://ucc-labcompu2.github.io/proyecto2021-mansilla-zuliani)
 
 ## Participantes
 ***
