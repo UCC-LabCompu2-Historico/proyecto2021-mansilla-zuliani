@@ -66,7 +66,9 @@ function cc () {
     var contex=canvas.getContext("2d");
     var ii = new Image();
     ii.scr = "Imágenes/delete-156119_960_720.png";
-    contex.drawImage(ii, 10, 10);
-    
+    ii.onload= function ()
+    {
+        contex.drawImage(ii, 0, 0);
+    }
 }
 
