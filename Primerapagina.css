@@ -144,12 +144,7 @@ body
     margin-left: 10px;
     padding-bottom: 30px;
 }
-#buttonpalabra
-{
-    font-size: 20px;
-    border-radius: 2px;
-    margin-top: 20px;
-}
+
 #inpingresar
 {
     font-size: 25px;
@@ -157,7 +152,6 @@ body
 }
 /*juego.html*/
 
-}
 #h3p
 {
     text-align: center;
@@ -168,7 +162,6 @@ body
 }
 #puntaje
 {
-
     padding-left: 20px;
     padding-right: 20px;
     margin-left: 100px;
@@ -192,7 +185,7 @@ body
     height: 30px;
     margin-left: 250px;
     font-size: 20px;
-
+    color: #ff368a;
 }
 
 #output
@@ -214,4 +207,10 @@ body
     height: 250px;
     width: 130px;
     background-image: url("Imágenes/94 sin título_20210615213655.png");
+}
+#reinicio
+{
+margin-left: 100px;
+margin-top: 150px;
+color: #ff368a;
 }

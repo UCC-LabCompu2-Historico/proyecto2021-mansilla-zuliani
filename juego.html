@@ -10,7 +10,7 @@
   <link rel="shotcut icon" href="Imágenes/icon_944242d44602cf5e4024530527334f96.ico">
   <script type="text/javascript" src="funciones.js"></script>
 </head>
-<body onload="cc()">
+<body>
 <div>
   <header>
     <h1 id="tituloPrincipal"><b>EL AHORCADO</b></h1>
@@ -23,9 +23,9 @@
     <form id="il">
     <label for="ingletra">INGRESAR UNA LETRA </label> <input id="ingletra" type="text" maxlength="1" name="introletra" placeholder="Ingrese una letra" >
       <br>
-      <button id="completra" type="button" name="buttoncomprobar" onClick="cc()"> Comprobar </button>
+      <button id="completra" type="button" name="buttoncomprobar" > Comprobar </button>
     </form>
-    <div id="avocados" ></div>
+    <div id="avocados"></div>
   </section>
 </div>
 <div>
@@ -34,6 +34,7 @@
     <canvas id="puntaje" class="punt" width="100" height="100">
       El navegador
     </canvas>
+    <button id="reinicio" type="button" name="reinicio" onclick="location.href='juego.html'"> Nuevo Juego </button>
   </aside>
 </div>
 </body>

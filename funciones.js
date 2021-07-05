@@ -43,12 +43,15 @@ function f() {
                 fallo=false;
             }
         }
+        document.querySelector('#output').innerHTML=palabraConGuiones;
+        document.querySelector('#ingletra').value="";
         if(fallo){
             contadorfallo++;
-            cc();
             document.querySelector('#avocados').style.backgroundPosition=-(130*contadorfallo)+'px 0';
+            cc ();
             if (contadorfallo==7){
-                alert("Perdiste el juego :( ")
+                alert("Perdiste el juego :( || La palabra es "+palabra)
+
             }
         }else{
             if(palabraConGuiones.indexOf('_')<0){
@@ -57,18 +60,20 @@ function f() {
         }
         document.querySelector('#output').innerHTML=palabraConGuiones;
         document.querySelector('#ingletra').value="";
+
     });
 
 }
 
 function cc () {
     var canvas = document.getElementById("puntaje");
-    var contex=canvas.getContext("2d");
-    var ii = new Image();
-    ii.scr = "Imágenes/delete-156119_960_720.png";
-    ii.onload= function ()
-    {
-        contex.drawImage(ii, 0, 0);
-    }
+    var cxt=canvas.getContext("2d");
+    cxt.strokeStyle = "#FF0000";
+    cxt.beginPath();
+    cxt.moveTo(0,0);
+    cxt.lineTo(20,20);
+    cxt.moveTo(0,20);
+    cxt.lineTo(20,0);
+    cxt.stroke();
 }
 
