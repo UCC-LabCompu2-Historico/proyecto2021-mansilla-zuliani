@@ -11,7 +11,8 @@
   <script type="text/javascript" src="funciones.js"></script>
   <script type="text/javascript" src="funciones2.js"></script>
 </head>
-<body onload="dibujarX()">
+<body onload="setInterval(dibujarX,90)">
+
 <div>
   <header>
     <h1 id="tituloPrincipal"><b>EL AHORCADO</b></h1>
@@ -31,7 +32,7 @@
 </div>
 <div>
   <aside id="puntajes">
-    <h3 id="h3p">VIDAS</h3>
+    <canvas id="MyCanvas" class="MyCanvas" width="330" height="300"></canvas>
     <button id="reinicio" type="button" name="reinicio" onclick="location.href='juego.html'"> Nuevo Juego </button>
   </aside>
 </div>

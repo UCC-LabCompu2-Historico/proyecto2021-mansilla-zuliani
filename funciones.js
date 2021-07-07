@@ -63,6 +63,7 @@ function f() {
         }else{
             if(palabraConGuiones.indexOf('_')<0){
                 alert("Ganaste el juego :)")
+
             }
         }
         document.querySelector('#output').innerHTML=palabraConGuiones;
