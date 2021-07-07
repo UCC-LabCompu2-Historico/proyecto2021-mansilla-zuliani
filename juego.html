@@ -9,8 +9,9 @@
   <link rel="stylesheet" href="Primerapagina.css" type="text/css">
   <link rel="shotcut icon" href="Imágenes/icon_944242d44602cf5e4024530527334f96.ico">
   <script type="text/javascript" src="funciones.js"></script>
+  <script type="text/javascript" src="funciones2.js"></script>
 </head>
-<body>
+<body onload="dibujarX()">
 <div>
   <header>
     <h1 id="tituloPrincipal"><b>EL AHORCADO</b></h1>
@@ -21,7 +22,7 @@
   <section id="sectionjuego">
     <p id="output"></p>
     <form id="il">
-    <label for="ingletra">INGRESAR UNA LETRA </label> <input id="ingletra" type="text" maxlength="1" name="introletra" placeholder="Ingrese una letra" >
+      <label for="ingletra">INGRESAR UNA LETRA </label> <input id="ingletra" type="text" maxlength="1" name="introletra" placeholder="Ingrese una letra" >
       <br>
       <button id="completra" type="button" name="buttoncomprobar" > Comprobar </button>
     </form>
@@ -31,9 +32,6 @@
 <div>
   <aside id="puntajes">
     <h3 id="h3p">VIDAS</h3>
-    <canvas id="puntaje" class="punt" width="100" height="100">
-      El navegador
-    </canvas>
     <button id="reinicio" type="button" name="reinicio" onclick="location.href='juego.html'"> Nuevo Juego </button>
   </aside>
 </div>

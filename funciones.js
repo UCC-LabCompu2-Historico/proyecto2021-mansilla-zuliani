@@ -1,6 +1,14 @@
 /**
+ * Clase
+ * @ Autoras: Mansilla Milagros y Zuliani Francina.
+ * @ Fecha de finalización: 06/07/2021.
  * Descripción
  * @ nombre: función para saber si se ingresan letras o números.
+ * @ palabra: función que elige una palabra al azar.
+ * @ cc: función canvas.
+ * @ f: función que controla la parte principal del juego (completar palabra y verificar si las letras que se ingresan pertenecen o no a la palabra que se adivina).
+ * @ palabra.replace: reemplaza la palabra ha adivinar por guiones.
+ * avocaados: variable que identifica a la imagen del ahorcado.
  */
 addEventListener('load',f);
 
@@ -48,7 +56,6 @@ function f() {
         if(fallo){
             contadorfallo++;
             document.querySelector('#avocados').style.backgroundPosition=-(130*contadorfallo)+'px 0';
-            cc ();
             if (contadorfallo==7){
                 alert("Perdiste el juego :( || La palabra es "+palabra)
 
@@ -65,15 +72,6 @@ function f() {
 
 }
 
-function cc () {
-    var canvas = document.getElementById("puntaje");
-    var cxt=canvas.getContext("2d");
-    cxt.strokeStyle = "#FF0000";
-    cxt.beginPath();
-    cxt.moveTo(0,0);
-    cxt.lineTo(20,20);
-    cxt.moveTo(0,20);
-    cxt.lineTo(20,0);
-    cxt.stroke();
-}
+
+
 

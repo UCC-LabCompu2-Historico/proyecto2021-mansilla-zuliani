@@ -48,10 +48,6 @@ button
 {
     font-size: 20px;
 }
-.inpj2
-{
-    font-size: 20px;
-}
 input
 {
     font-size: 20px;
@@ -210,7 +206,7 @@ body
 }
 #reinicio
 {
-margin-left: 100px;
-margin-top: 150px;
-color: #ff368a;
+    margin-left: 100px;
+    margin-top: 150px;
+    color: #ff368a;
 }

@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1a25995-ff1b-4386-8b92-a45fb3b979f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Imágenes/corazon vidas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imágenes/corazon_vidas-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imágenes/corazon_vidas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imágenes/corazon_vidas-removebg-preview.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Primerapagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/Primerapagina.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcpalabra.js" beforeDir="false" afterPath="$PROJECT_DIR$/funciones2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/juego.html" beforeDir="false" afterPath="$PROJECT_DIR$/juego.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +75,8 @@
       <workItem from="1623766854128" duration="28573000" />
       <workItem from="1623880454740" duration="54000" />
       <workItem from="1625239630401" duration="1454000" />
-      <workItem from="1625510620236" duration="6369000" />
+      <workItem from="1625510620236" duration="6459000" />
+      <workItem from="1625608479617" duration="13275000" />
     </task>
     <servers />
   </component>
